@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+class phone{
+    string p.name;
+    string p.size;
+public:
+phone(string name, string size);
+p.name=name;
+p.size=size;
+}
+void makecall(){
+    cout<<"Making call using :"<<p.name<<endl;
+};
+void recievecall(){
+    cout<<"recieving call :"<<p.name<<endl;
+};
+int main(){
+    phone.ph1("Iphone_X",1000x500);
+    ph1.makecall();
+return 0;
+}
